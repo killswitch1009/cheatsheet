@@ -1,0 +1,53 @@
+joshua's command list
+
+ls => lists directories and files
+
+	-a => all files
+	-l =>lists the information about all types
+	
+echo "what ever you want to enter" > filename.type
+	=> this command creats a string inside of a new file
+
+pwd =>
+
+cd => 
+
+	.. =>
+	. =>
+	./ =>
+	../ => 
+
+sudo => 
+
+su =>
+
+mkdir
+
+cpdir
+
+rm
+
+mv
+
+man 
+
+reboot
+
+poweroff
+
+history
+
+grep
+
+cat
+
+
+clear
+
+
+apt-get update
+
+chmod -v 777 filename.type
+	421421421
+
+
